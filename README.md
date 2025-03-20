@@ -5,7 +5,7 @@ Hello everyone, my name is Michael Anthony Barnes III. I love gaming, and one of
 1 Python 
 2  JAVA 
 
-# Projec's t that I have done in the past 
+# Project's  that I have done in the past 
 https://github.com/Readytolearn223/Finale-Project-For-Group-1 
 https://github.com/RogueInstincts/Super-defenders-SDEV265-class-project- 
 
